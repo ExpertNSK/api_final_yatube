@@ -17,6 +17,9 @@ api final
 # Установка
 
 ## 1) Склонировать репозиторий
+
+git clone git@github.com:ExpertNSK/api_final_yatube.git
+
 ## 2) Создать и активировать виртуальное окружение для проекта
 
 python -m venv venv
